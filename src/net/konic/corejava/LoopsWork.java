@@ -1,4 +1,4 @@
-package com.homework;
+package net.konic.corejava;
 
 public class LoopsWork {
 	public static void main(String[] args) {

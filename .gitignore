@@ -1,2 +1,8 @@
 .classpath
 .settings/org.eclipse.jdt.core.prefs
+/bin
+/bin/com/homework
+/bin/com
+/bin
+bin/com/homework/package-info.class
+bin/com/homework/LoopsWork.class
