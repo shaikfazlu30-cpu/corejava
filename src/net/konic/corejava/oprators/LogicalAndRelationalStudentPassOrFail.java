@@ -2,7 +2,7 @@ package net.konic.corejava.oprators;
 
 import java.util.Scanner;
 
-public class LogicalAndRelationalHw {
+public class LogicalAndRelationalStudentPassOrFail {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

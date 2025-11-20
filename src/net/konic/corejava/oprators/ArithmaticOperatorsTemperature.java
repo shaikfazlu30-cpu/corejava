@@ -2,7 +2,7 @@ package net.konic.corejava.oprators;
 
 import java.util.Scanner;
 
-public class ArithmaticOperatorsHomework2 {
+public class ArithmaticOperatorsTemperature {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter temperature in Celsius:");
