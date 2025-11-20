@@ -1,4 +1,4 @@
-package net.konic.flash;
+package net.konic.corejava.varibles;
 
 public class free {
 	public static void main(String[] args) {

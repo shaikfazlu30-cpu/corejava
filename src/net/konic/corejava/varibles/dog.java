@@ -1,4 +1,4 @@
-package net.konic.flash;
+package net.konic.corejava.varibles;
 
 public class dog {
 	public static void main(String[] args) {
