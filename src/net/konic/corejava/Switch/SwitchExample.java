@@ -15,7 +15,7 @@ public class SwitchExample {
 		switch (s) {
 
 		case 1:
-			System.out.println("enter your name");
+			System.out.println("enter your name  ");
 			break;
 		case 2:
 			System.out.println("enter your account");
