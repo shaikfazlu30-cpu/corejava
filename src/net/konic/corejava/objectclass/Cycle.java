@@ -6,7 +6,7 @@ public class Cycle {
 	String colour;
 	int speed;
 
-	void start() {
+	void start () {
 
 		System.out.println("bike is start");
 		System.out.println("brand=" + brand);

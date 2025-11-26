@@ -11,7 +11,7 @@ public class CycleTest {
 	 
 	 cycle.speed = 20;
 	 
-	 cycle.start();
+	 cycle.s();
 
 	}
 
