@@ -1,4 +1,4 @@
-package net.konic.corejava.Switch;
+package net.konic.corejava.breaks;
 
 public class Continue1 {
 	public static void main(String[] args) {

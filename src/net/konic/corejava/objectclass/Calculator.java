@@ -2,6 +2,12 @@ package net.konic.corejava.objectclass;
 
 public class Calculator {
 
+	public void add() {
+		int a = 20;
+		int b =15;
+		int c = a+b;
+		System.out.println("add "+c);
+	}
 	public int add(int x, int y) {
 		int z = x + y;
 		System.out.println(z);
@@ -34,8 +40,8 @@ public class Calculator {
 
 		calculator.add(3, 4);
 		calculator.sub(3, 2);
-		calculator.div(22, 10);
-		calculator.add(10, 10);
+		calculator.mul(22, 10);
+		calculator.div(10, 10);
 
 	}
 

@@ -1,4 +1,4 @@
-package net.konic.corejava.Switch;
+package net.konic.corejava.breaks;
 
 import java.util.Scanner;  // Scanner must be imported
 

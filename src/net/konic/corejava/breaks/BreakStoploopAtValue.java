@@ -1,12 +1,11 @@
-package net.konic.corejava.Switch;
+package net.konic.corejava.breaks;
 
-public class Continue3 {
+public class BreakStoploopAtValue {
 	public static void main(String[] args) {
-
 		for (int i = 1; i <= 10; i++) {
 
 			if (i == 5) {
-				continue; // Skip the number 5
+				break;
 			}
 
 			System.out.print(i + " ");
