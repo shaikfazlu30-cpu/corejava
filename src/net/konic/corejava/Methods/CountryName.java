@@ -4,7 +4,7 @@ public class CountryName {
 
 	// Method with return type & without parameters
 
-	String name() {
+	public String name() {
 		String country = "India";
 		System.out.println("Country Name: " + country);
 		return country;

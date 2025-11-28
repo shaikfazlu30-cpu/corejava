@@ -3,7 +3,7 @@ package net.konic.corejava.Methods;
 public class GreetingMessage {
 
 	public String greet(String greet) {
-		System.out.println("greeting " + greet);
+		System.out.println("greeting :" + greet);
 		return greet;
 
 	}
