@@ -1,6 +1,6 @@
 package net.konic.corejava.constructor;
 
-public class Student {
+final class Student {
 
 	static String schoolname = "Xlnc";
 	int rollnum;
